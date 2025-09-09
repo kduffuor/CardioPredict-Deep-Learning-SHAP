@@ -1,5 +1,7 @@
 ## 🫀 CardioPredict: Deep Learning-Based Heart Disease Prediction with SHAP Explainability
-
+![Model](https://img.shields.io/badge/Model-Logistic%20Regression-blue)
+![Accuracy](https://img.shields.io/badge/Accuracy-96%25-brightgreen)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 A comprehensive machine learning pipeline for cardiovascular disease prediction using deep neural networks with explainable AI capabilities. This project demonstrates end-to-end ML development from exploratory data analysis to deployment-ready pipeline.
 
 ### Key Features
