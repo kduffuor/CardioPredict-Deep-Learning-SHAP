@@ -73,5 +73,5 @@ Output Layer (1 neuron, Sigmoid)
 - **Treatment Planning**: Prioritize interventions based on risk factors
 - **Research Tool**: Feature importance analysis for clinical research
 
-### Disclaimer
+## Disclaimer
 **Important Notice**: This model is developed for educational and research purposes only. It should **NOT** be used as a substitute for professional medical diagnosis or treatment. Always consult qualified healthcare professionals for medical decisions.
