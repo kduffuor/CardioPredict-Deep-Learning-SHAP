@@ -53,7 +53,7 @@ Output Layer (1 neuron, Sigmoid)
 ## How to Use This Repository
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/cardiopredict-deep-learning-shap.git
+   git clone https://github.com/kduffuor/CardioPredict-Deep-Learning-SHAP.git
    cd cardiopredict-deep-learning-shap
    ```
 
